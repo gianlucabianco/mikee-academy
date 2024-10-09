@@ -10,12 +10,12 @@ Mr. Croft traps: ( usare ma non spesso, meglio se in particolari situazioni)
 - Blocked 3+4 (-1 ) into b1+2 (i15) = 16
 - Blocked 3+4 (-1 ) into B41 (i14) = 15 ( alisa unsafe )
 - Blocked 3+4 (-1 ) into SSR AOP
-- BLOCKED F4 into b1+2 or b41
-- FF3 into RDS d3
-- FF3 and DF1 into RDS DB and whiff punish - B1+2 or ws2 or standing 3
-- Blocked 1+2 into magic 4
-- Blocked Df1 into ssr aop and then aop uf3
-- Blocked 12 into ssr aop and aop uf3 or aop 21.
+- BLOCKED F4 ( f? ) into b1+2 ( f? ) or b41 ( f? )
+- FF3 ( f? ) into RDS d3 ( f? )
+- FF3 ( f? ) and DF1 ( f? ) into RDS DB and whiff punish - B1+2 or ws2 or standing 3
+- Blocked 1+2 ( f? ) into magic 4 ( f? )
+- Blocked Df1 ( f? ) into ssr aop and then aop uf3
+- Blocked 12 ( f? ) into ssr aop and aop uf3 or aop 21.
 
 ---
 
