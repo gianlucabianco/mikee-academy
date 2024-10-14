@@ -31,7 +31,7 @@
 
 Notes:
 
-- warm up
+- warm up ( B & B combos, movement such ssr aop)
 - be mindful
 - review your knowledge mentally
 
