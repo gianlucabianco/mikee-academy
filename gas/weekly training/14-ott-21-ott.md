@@ -37,4 +37,4 @@ Notes:
 
 ## Ranked ( 30 mins )
 
-- If you lose, go to review and take notes on how to counter stuff
+- If you lose, go to replay review and take notes on how to counter stuff
