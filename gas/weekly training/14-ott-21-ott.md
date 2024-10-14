@@ -19,13 +19,13 @@
 
 ## Punishment ( 30 mins )
 
-1. [ character ] medium 10 mins
-2. [ character ] hard 5 mins
-3. break 10 mins
-4. [ character ] medium 8 mins
-5. Break 1h
-6. [ character ] medium 7 mins
-7. reviews => follow the grid and do spaced repetitions 10 mins, 1h, 1day, 1 week, 1 month after
+1. [ character ] medium 15 mins
+2. break 10 mins
+3. [ character ] medium 8 mins
+4. Break 1h
+5. [ character ] medium 7 mins
+
+   note: reviews => follow the grid and do spaced repetitions 10 mins, 1h, 1day, 1 week, 1 month after
 
 ## Quick plays ( 30 mins )
 
