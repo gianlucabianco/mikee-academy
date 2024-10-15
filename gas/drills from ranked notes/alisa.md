@@ -1,0 +1,2 @@
+- il primo è medio, sul secondo abbassati
+- quando fa l'animazione in aria che va indietro, interrompi con un jab
