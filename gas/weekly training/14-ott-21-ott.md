@@ -6,17 +6,18 @@
 2. 1 mins command 2
 3. 2 mins command 1+2
 4. 2 mins command 1 + command 1+2 @ freq 1
-5. 9 mins all random @ freq 1 => tot. 15 mins
-6. break 10 mins
-7. 1 mins command 1
-8. 1 mins command 2
-9. 2 mins command 1+2
-10. 4 mins random @ freq 1 => tot. 8 mins
-11. break 1 h
-12. 1 mins command 1
-13. 1 mins command 2
-14. 1 mins command 1+2
-15. 4 mins random @ freq 1 => tot. 7 mins
+5. 2 mins command 2 + command 1+2 @ freq 1
+6. 7 mins all random @ freq 1 => tot. 15 mins
+7. break 10 mins
+8. 1 mins command 1
+9. 1 mins command 2
+10. 2 mins command 1+2
+11. 4 mins random @ freq 1 => tot. 8 mins
+12. break 1 h
+13. 1 mins command 1
+14. 1 mins command 2
+15. 1 mins command 1+2
+16. 4 mins random @ freq 1 => tot. 7 mins
 
 ## Punishment ( 30 mins )
 
