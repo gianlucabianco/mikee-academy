@@ -1,0 +1,1 @@
+- quando spammano stringe fare BACK DASH, si crea spazio e si creano opportunità per whiffare
