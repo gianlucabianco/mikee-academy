@@ -11,9 +11,9 @@ For throws and lows, [original video from Phidx](https://www.youtube.com/watch?v
 
 ## Level 1 - SLOWEST LOWS AVAILABLE - BRYAN
 
-1. SNAKE EDGE (low 29f)
-2. b+1 (mid 20f)
-3. SNAKE EDGE vs b+1
+1. SNAKE EDGE (low 29f) - 1 mins
+2. b+1 (mid 20f) - 1 mins
+3. SNAKE EDGE vs b+1 - 3 mins
 
 - Do not crouch, but REACT and block low at the last moment
 - Do every exercise until you are comfortable, let's say 20-30 reps
@@ -41,10 +41,10 @@ You, of course, need to work on attack at the same time.
 ## Level 3 - Reaction the hard way - DRAGUNOV
 
 1. Throws from the previous drill
-2. Snake edge (db+3)
-3. Snake edge and feint & low and catch (db3 + 1+2) => fuzzy duck, block, and stand up
-4. b+4, 3 (this could have a variant where Dragunov does a mid)
-5. Everything above random, do this only after you are comfortable with everything above
+2. Snake edge (db+3) - 1 mins
+3. Snake edge and feint & low and catch (db3 + 1+2) - 1 mins => fuzzy duck, block, and stand up
+4. b+4, 3 (this could have a variant where Dragunov does a mid) - 1 mins
+5. Everything above random, do this only after you are comfortable with everything above - 5 mins
 
 ```
 This is CHALLENGING: be patient and give yourself the time
