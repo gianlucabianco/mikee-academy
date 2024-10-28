@@ -19,6 +19,8 @@
 15. 1 mins command 1+2
 16. 4 mins random @ freq 1 => tot. 7 mins
 
+- Focus on the arms
+
 ## Punishment ( 30 mins )
 
 1. [ character ] medium 15 mins
