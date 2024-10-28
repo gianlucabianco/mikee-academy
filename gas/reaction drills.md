@@ -81,4 +81,3 @@ Master this drill and you will be at Tekken God tournament level
 - After getting the animations, turn off all the frame info
 - Do not overgrind => practice for no more than 15 minutes and then go to ranked
 - Speedkicks came up with this drill
-- [to be continued!](https://youtu.be/0N2MtFtRjOY?si=zZ4g1Sz7EotC75WV&t=1136)
