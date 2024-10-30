@@ -1,15 +1,34 @@
-<style>
-    .punish-grid { background-color: #fff; color: #000; padding: 1rem; width: 100%; }
-    .punish-grid h1 { color: #000; padding: 1rem; }
-    .punish-grid tr:nth-child(odd) { background-color: #EEE; }
-    .punish-grid tr:nth-child(even) { background-color: #DDD; }
-</style>
-
 <div class="punish-grid">
-<h1>Law punishable moves</h1>
+<h1>Law punishable moves - <span>SSR</span></h1>
 
 | Hit level | -10 | -11 | -12 | -13 | -14 | -15 ( > ) | notes |
 | --------- | --- | --- | --- | --- | --- | --------- | ----- |
 | h, m, l   | x   |     |     |     |     |           |       |
 
 </div>
+
+<style>
+.punish-grid {
+    width: 100%;
+    padding: 1rem;
+    color: #000;
+    background-color: #fff;
+}
+
+.punish-grid h1 {
+    padding: 1rem 0;
+    color: #000;
+}
+
+.punish-grid tr:nth-child(odd) {
+    background-color: #eee;
+}
+
+.punish-grid tr:nth-child(even) {
+    background-color: #ddd;
+}
+
+h1 span {
+    color: #f00;
+}
+</style>
