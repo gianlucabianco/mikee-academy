@@ -3,10 +3,11 @@
     .punish-grid h1 { color: #000; padding: 1rem; }
     .punish-grid tr:nth-child(odd) { background-color: #EEE; }
     .punish-grid tr:nth-child(even) { background-color: #DDD; }
+    h1 span { color: blue;}
 </style>
 
 <div class="punish-grid">
-<h1>Yoshimitsu punishable moves</h1>
+<h1>Yoshimitsu punishable moves - <span>SSL</span></h1>
 
 | Hit level | -10 | -11 | -12 | -13 | -14 | -15 ( > ) | notes |
 | --------- | --- | --- | --- | --- | --- | --------- | ----- |
