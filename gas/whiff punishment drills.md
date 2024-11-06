@@ -16,7 +16,7 @@ Set the practice settings to DEFENSE and record the following drills moves
 
 ## Level 2 - JUN - defense - freq shuffle
 
-1. df2
+1. df2 => whiff punish
 
 ## Level 3 - JUN - defense - freq short
 
