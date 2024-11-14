@@ -32,7 +32,7 @@ Qcb4 -12
 43 duck launch   
 32 duck launch, registrare con flowchart db21 dopo (optional)  
 D1,2 check con ws1,2 riconoscere diverse animazioni (optional)  
-Ws12 armor o ss tra 1 e 2  
+Ws12 E d1,2 armor, parry, o ss tra 1 e 2  
 Ws11 mix con ws12 -12 alto  
 D1+2 -18 spallata   
 Df12 twin pistons -15  
