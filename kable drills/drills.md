@@ -12,6 +12,21 @@ FF3,4,3 -10
 WS2 -13   
 Df11 duck secondo colpo
 
+# ASUKA
+
+Ws14 duck la seconda
+23 riconosci -17
+21,1+2 -10 riconosci 
+B423 riconosci -16
+Df12 df14 riconosci, df14 -12
+Db43 duck la seconda
+F2 punisci -18
+B1 basso -8 safe visibile low parry o low crush
+13 Alto basso -11
+B1+4,4 Alto basso -8 low parry o low crush
+D1+2 reacta difficile  Basso -18
+123, 124 fuzzy (flash duck) -12 
+
 # BRYAN
 
 Qcb2,4 duck launch  
@@ -112,6 +127,21 @@ Db3+4 duck -18
 113 secondo colpo ducckabile, terzo colpo -15  
 Df2 -11  
 124 sidestep il terzo colpo
+
+# PAUL
+
+Df112 Lion roar duck secondo colpo
+Death fist -17 pushback (-13 in heat)
+F1+4 Spallata -14 pushback
+D1+2 spallata -16 pushback
+D14mixd12 -17, basso lanciabile fuzzyL
+Deep dive 21, 23 mix alto e pestone reagibile (pestone piu lento)
+Presa 1 e presa 2 riconoscere
+32 duck launch
+Ws32 duck launch
+Demoman se non lancia (tip range) -17 molto pushback
+B12 -14
+Ff2 poi o 1jf, 1, 2 (alto, medio-12, basso) (fuzzy difficile a 3 scelte duck->para alto-> para il basso)
 
 # REINA
 
